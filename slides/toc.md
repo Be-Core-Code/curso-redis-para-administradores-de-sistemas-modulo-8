@@ -7,4 +7,3 @@
 * [Copias de seguridad y Recuperación](/#backup_and_restore)
 * [Monitorizando la memoria](/#monitoring_memory)
 * [Gestión de clientes](/#managing_clients)
-* [Migración de datos](/#data_migration)
