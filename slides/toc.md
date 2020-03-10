@@ -1,11 +1,10 @@
-#### Contenido módulo [MODULO]
+#### Contenido módulo 8
 
-#### [TÍTULO DEL MÓDULO]
+#### Administración de Redis
 
-* ...
-
-notes:
-
-Los objetivos de este módulo son:
-
-* ...
+* [Algunos extras sobre `redis.conf`](/#configuration_extras)
+* [Algunos extras sobre `redis-cli`](/#redis_cli_extras)
+* [Copias de seguridad y Recuperación](/#backup_and_restore)
+* [Monitorizando la memoria](/#monitoring_memory)
+* [Gestión de clientes](/#managing_clients)
+* [Migración de datos](/#data_migration)
